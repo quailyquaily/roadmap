@@ -1,18 +1,18 @@
-# Quaily Roadmap
+# 🚀 Quaily Roadmap
 
-## 2025Q1
+## 📅 2025Q1
 
-- User interface
+- 🎨 User interface
   - [x] Rebranding interface for dashboard, official website, channel page and post page.
-- User Experience
+- 🌟 User Experience
   - [x] Local fonts for zh-hant, zh-hans and Japanese.
-- SEO optimization
+- 🔍 SEO
   - [x] Content Quality Watch to find low quality posts.
-- Explore
+- 🗺️ Explore
   - [ ] Featured authors, topic-based series, Topic clusters & pillar pages.
-- Terms
+- 📜 Terms
   - [ ] Update the terms.
-- Sending
+- ✉️ Sending
   - [ ] Show email sending logs.
-- Operation
+- ⚙️ Operation
   - [ ] BDR for Cloudflare R2.
