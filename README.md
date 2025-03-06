@@ -8,6 +8,10 @@
   - [x] Local fonts for zh-hant, zh-hans and Japanese.
 - 🔍 SEO
   - [x] Content Quality Watch to find low quality posts.
+- 🧩 Obsidian Plugin
+  - [x] actions for "preview" and "set default channel"
+  - [x] polish UI
+  - [x] multiple languages support  
 - 🗺️ Explore
   - [ ] Featured authors, topic-based series, Topic clusters & pillar pages.
 - 📜 Terms
