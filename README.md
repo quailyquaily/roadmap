@@ -11,12 +11,15 @@
 - 🧩 Obsidian Plugin
   - [x] actions for "preview" and "set default channel"
   - [x] polish UI
-  - [x] multiple languages support  
+  - [x] multiple languages support
+- 💻 Quail CLI
+  - [x] MCP mode 
 - 🗺️ Explore
   - [ ] Featured authors, topic-based series, Topic clusters & pillar pages.
 - 📜 Terms
   - [ ] Update the terms.
 - ✉️ Sending
   - [ ] Show email sending logs.
+  - [ ] Improve the sending performance.
 - ⚙️ Operation
   - [ ] BDR for Cloudflare R2.
