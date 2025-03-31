@@ -2,7 +2,7 @@
 
 ## core project
 
-- @Anonymous: Bug hunter. Got a bug lets users access the incorrect content.
+- @[notzheng](https://github.com/notzheng): Bug hunter. Got a bug lets users access the incorrect content.
 
 ## quaily-i18n
 
