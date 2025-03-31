@@ -3,6 +3,7 @@
 ## core project
 
 - @[notzheng](https://github.com/notzheng): Bug hunter. Got a bug lets users access the incorrect content.
+- @[Danjiri](https://github.com/Danjiri): Composed a great prompt to polish the Japanese content.
 
 ## quaily-i18n
 
