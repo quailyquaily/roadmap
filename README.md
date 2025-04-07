@@ -29,3 +29,4 @@
 - 🤖 Quaily AI
   - [x] Add more instances: sonnet, gemini, 4o-mini
   - [x] Improve the performance
+  - [ ] Fallback models
