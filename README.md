@@ -1,6 +1,6 @@
 # 🚀 Quaily Roadmap
 
-## 📅 2025Q1
+## 📅 2025Q1~Q2
 
 - 🎨 User interface
   - [x] Rebranding interface for dashboard, official website, channel page and post page.
@@ -12,6 +12,9 @@
   - [x] actions for "preview" and "set default channel"
   - [x] polish UI
   - [x] multiple languages support
+  - [ ] actions for edit mode
+    - update tags / summary for selected fields
+    - rewrite selection text
 - 💻 Quail CLI
   - [x] MCP mode 
 - 🗺️ Explore
@@ -20,6 +23,9 @@
   - [ ] Update the terms.
 - ✉️ Sending
   - [ ] Show email sending logs.
-  - [ ] Improve the sending performance.
+  - [x] Improve the sending performance.
 - ⚙️ Operation
   - [ ] BDR for Cloudflare R2.
+- 🤖 Quaily AI
+  - [x] Add more instances: sonnet, gemini, 4o-mini
+  - [x] Improve the performance
