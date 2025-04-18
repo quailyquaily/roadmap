@@ -22,11 +22,13 @@
 - 📜 Terms
   - [ ] Update the terms.
 - ✉️ Sending
-  - [ ] Show email sending logs.
+  - [x] Show email sending logs.
   - [x] Improve the sending performance.
+  - [ ] Remove/opt out for the invalid recipients.
 - ⚙️ Operation
   - [ ] BDR for Cloudflare R2.
 - 🤖 Quaily AI
-  - [x] Add more instances: sonnet, gemini, 4o-mini
+  - [x] Add more instances: sonnet, gemini, openai, grok
   - [x] Improve the performance
+  - [x] Search mode 
   - [ ] Fallback models
