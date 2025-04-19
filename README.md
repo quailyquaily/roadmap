@@ -24,7 +24,7 @@
 - ✉️ Sending
   - [x] Show email sending logs.
   - [x] Improve the sending performance.
-  - [ ] Remove/opt out for the invalid recipients.
+  - [x] Remove/opt out for the invalid recipients.
 - ⚙️ Operation
   - [ ] BDR for Cloudflare R2.
 - 🤖 Quaily AI
