@@ -6,6 +6,9 @@
   - [x] Rebranding interface for dashboard, official website, channel page and post page.
 - 🌟 User Experience
   - [x] Local fonts for zh-hant, zh-hans and Japanese.
+- 📢 Ads Network
+  - [ ] Fixed price promotion
+  - [ ] Auto Ads
 - 🔍 SEO
   - [x] Content Quality Watch to find low quality posts.
 - 🧩 Obsidian Plugin
@@ -26,7 +29,7 @@
   - [x] Improve the sending performance.
   - [x] Remove/opt out for the invalid recipients.
 - ⚙️ Operation
-  - [ ] BDR for Cloudflare R2.
+  - [x] BDR for Cloudflare R2.
 - 🤖 Quaily AI
   - [x] Add more instances: sonnet, gemini, openai, grok
   - [x] Improve the performance
