@@ -6,20 +6,21 @@
   - [x] Rebranding interface for dashboard, official website, channel page and post page.
 - 🌟 User Experience
   - [x] Local fonts for zh-hant, zh-hans and Japanese.
+  - [x] Improve fonts loading.
 - 📢 Ads Network
   - [ ] Fixed price promotion
   - [ ] Auto Ads
 - 🔍 SEO
   - [x] Content Quality Watch to find low quality posts.
 - 🧩 Obsidian Plugin
-  - [x] actions for "preview" and "set default channel"
-  - [x] polish UI
-  - [x] multiple languages support
-  - [ ] actions for edit mode
-    - update tags / summary for selected fields
-    - rewrite selection text
+  - [x] actions for "preview" and "set default channel".
+  - [x] polish UI.
+  - [x] multiple languages support.
+  - [ ] actions for edit mode.
+    - update tags / summary for selected fields.
+    - rewrite selection text.
 - 💻 Quail CLI
-  - [x] MCP mode 
+  - [x] MCP mode.
 - 🗺️ Explore
   - [ ] Featured authors, topic-based series, Topic clusters & pillar pages.
 - 📜 Terms
@@ -31,7 +32,8 @@
 - ⚙️ Operation
   - [x] BDR for Cloudflare R2.
 - 🤖 Quaily AI
-  - [x] Add more instances: sonnet, gemini, openai, grok
-  - [x] Improve the performance
-  - [x] Search mode 
-  - [ ] Fallback models
+  - [x] Add more instances: sonnet, gemini, openai, grok, deepseek.
+  - [x] Improve the performance.
+  - [x] Search mode.
+  - [x] Yaml mode.
+  - [ ] Fallback models.
