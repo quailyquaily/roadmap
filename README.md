@@ -29,6 +29,8 @@
   - [x] Show email sending logs.
   - [x] Improve the sending performance.
   - [x] Remove/opt out for the invalid recipients.
+  - [x] Support Slack
+  - [x] Support Bluesky
 - ⚙️ Operation
   - [x] BDR for Cloudflare R2.
 - 🤖 Quaily AI
