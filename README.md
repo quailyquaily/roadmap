@@ -19,6 +19,7 @@
   - [ ] actions for edit mode.
     - update tags / summary for selected fields.
     - rewrite selection text.
+  - [ ] schedule sending
 - 💻 Quail CLI
   - [x] MCP mode.
 - 🗺️ Explore
