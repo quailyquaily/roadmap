@@ -5,7 +5,7 @@
 - 🎨 User interface
   - [x] Rebranding interface for dashboard, official website, channel page and post page.
 - 🌟 User Experience
-  - [x] Local fonts for zh-hant, zh-hans and Japanese.
+  - [x] Local fonts for zh-hant, zh-hans and ja.
   - [x] Improve fonts loading.
 - 📢 Ads Network
   - [ ] Fixed price promotion
@@ -26,6 +26,9 @@
 - 📜 Terms
   - [ ] Update the terms.
 - ✉️ Sending
+  - [ ] additional email providers
+    - [x] azure
+    - [ ] sendgrid 
   - [x] Show email sending logs.
   - [x] Improve the sending performance.
   - [x] Remove/opt out for the invalid recipients.
