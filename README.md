@@ -3,15 +3,16 @@
 ## 📅 2025Q1~Q2
 
 - 🎨 User interface
-  - [x] Rebranding interface for dashboard, official website, channel page and post page.
+  - [x] rebranding interface for dashboard, official website, channel page and post page.
+  - [x] auto saving
 - 🌟 User Experience
-  - [x] Local fonts for zh-hant, zh-hans and ja.
-  - [x] Improve fonts loading.
+  - [x] local fonts for zh-hant, zh-hans and ja.
+  - [x] improve fonts loading.
 - 📢 Ads Network
-  - [ ] Fixed price promotion
-  - [ ] Auto Ads
+  - [ ] fixed price promotion
+  - [ ] auto ads
 - 🔍 SEO
-  - [x] Content Quality Watch to find low quality posts.
+  - [x] content quality watch to find low quality posts.
 - 🧩 Obsidian Plugin
   - [x] actions for "preview" and "set default channel".
   - [x] polish UI.
@@ -21,25 +22,27 @@
     - rewrite selection text.
   - [ ] schedule sending
 - 💻 Quail CLI
-  - [x] MCP mode.
+  - [x] mcp mode.
 - 🗺️ Explore
-  - [ ] Featured authors, topic-based series, Topic clusters & pillar pages.
+  - [ ] featured authors, topic-based series, Topic clusters & pillar pages.
 - 📜 Terms
-  - [ ] Update the terms.
+  - [x] update the terms.
 - ✉️ Sending
   - [ ] additional email providers
     - [x] azure
-    - [ ] sendgrid 
-  - [x] Show email sending logs.
-  - [x] Improve the sending performance.
-  - [x] Remove/opt out for the invalid recipients.
-  - [x] Support Slack
-  - [x] Support Bluesky
+    - [ ] sendgrid
+    - [ ] aws ses
+  - [x] show email sending logs.
+  - [x] improve the sending performance.
+  - [x] remove/opt out for the invalid recipients.
+  - [x] support Slack
+  - [x] support Bluesky
+  - [x] url shorteners
 - ⚙️ Operation
   - [x] BDR for Cloudflare R2.
 - 🤖 Quaily AI
-  - [x] Add more instances: sonnet, gemini, openai, grok, deepseek.
-  - [x] Improve the performance.
-  - [x] Search mode.
-  - [x] Yaml mode.
-  - [ ] Fallback models.
+  - [x] add more instances: sonnet, gemini, openai, grok, deepseek.
+  - [x] improve the performance.
+  - [x] search mode.
+  - [x] yaml mode.
+  - [ ] fallback models.
