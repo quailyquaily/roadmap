@@ -25,19 +25,22 @@
   - [x] mcp mode.
 - 🗺️ Explore
   - [ ] featured authors, topic-based series, Topic clusters & pillar pages.
+- 🔍 Search
+  - [ ] better embedding strategy
+  - [ ] reranker
 - 📜 Terms
   - [x] update the terms.
 - ✉️ Sending
-  - [ ] additional email providers
+  - [x] additional email providers
     - [x] azure
-    - [ ] sendgrid
-    - [ ] aws ses
+    - [x] aws ses
   - [x] show email sending logs.
   - [x] improve the sending performance.
   - [x] remove/opt out for the invalid recipients.
   - [x] support Slack
   - [x] support Bluesky
   - [x] url shorteners
+  - [x] better bounce / complaints handling
 - ⚙️ Operation
   - [x] BDR for Cloudflare R2.
 - 🤖 Quaily AI
