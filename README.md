@@ -14,8 +14,9 @@
 - 🗺️ Explore
   - [ ] featured authors, topic-based series, Topic clusters & pillar pages.
 - 🔍 Search
-  - [ ] Search for channels
+  - [ ] search for channels
   - [ ] reranker
+  - [x] search at dashboard
 - 📧 Sending
   - [x] improved email routing
   - [x] send to bluesky & X
