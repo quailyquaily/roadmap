@@ -24,6 +24,8 @@
 - 🤖 Quaily AI
   - [x] gpt-5
   - [x] image generation
+- 📊 Analytics
+  - [x] Google Analytics Events 
 
 ## 📅 2025Q1~Q2
 
