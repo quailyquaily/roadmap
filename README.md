@@ -1,5 +1,30 @@
 # 🚀 Quaily Roadmap
 
+## 📅 2025Q3~Q4
+
+- 💳 Payment
+  - [x] support Solana network
+  - [x] price oracle for SPL/Token on BSC/ETH/BASE/Solana
+  - [x] reduce the gas consuming of EVM network
+- 🧩 Obsidian Plugin
+  - [ ] actions for edit mode.
+    - update tags / summary for selected fields.
+    - rewrite selection text.
+  - [ ] schedule sending
+- 🗺️ Explore
+  - [ ] featured authors, topic-based series, Topic clusters & pillar pages.
+- 🔍 Search
+  - [ ] Search for channels
+  - [ ] reranker
+- 📧 Sending
+  - [x] improved email routing
+  - [x] send to bluesky & X
+- 🔍 SEO
+  - [x] better about page
+- 🤖 Quaily AI
+  - [x] gpt-5
+  - [x] image generation
+
 ## 📅 2025Q1~Q2
 
 - 🎨 User interface
@@ -26,7 +51,7 @@
 - 🗺️ Explore
   - [ ] featured authors, topic-based series, Topic clusters & pillar pages.
 - 🔍 Search
-  - [ ] better embedding strategy
+  - [x] better embedding strategy
   - [ ] reranker
 - 📜 Terms
   - [x] update the terms.
@@ -48,4 +73,3 @@
   - [x] improve the performance.
   - [x] search mode.
   - [x] yaml mode.
-  - [ ] fallback models.
