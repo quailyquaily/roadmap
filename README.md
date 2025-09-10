@@ -5,7 +5,7 @@
 - 💳 Payment
   - [x] support Solana network
   - [x] price oracle for SPL/Token on BSC/ETH/BASE/Solana
-  - [x] reduce the gas consuming of EVM network
+  - [x] reduce the gas consuming of EVM network 
 - 🧩 Obsidian Plugin
   - [ ] actions for edit mode.
     - update tags / summary for selected fields.
@@ -26,7 +26,10 @@
   - [x] gpt-5
   - [x] image generation
 - 📊 Analytics
-  - [x] Google Analytics Events 
+  - [x] Google analytics events
+  - [x] UTM parameters 
+  - [x] top posts overview
+  - [x] post views / click sources
 
 ## 📅 2025Q1~Q2
 
