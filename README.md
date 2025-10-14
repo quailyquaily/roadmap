@@ -14,7 +14,7 @@
 - 🗺️ Explore
   - [ ] featured authors, topic-based series, Topic clusters & pillar pages.
 - 🔍 Search
-  - [ ] search for channels
+  - [x] search for channels
   - [ ] reranker
   - [x] search at dashboard
 - 📧 Sending
@@ -30,6 +30,9 @@
   - [x] UTM parameters 
   - [x] top posts overview
   - [x] post views / click sources
+- 📝 Editing
+  - [x] Podbean Widget
+  - [x] Overtype Markdown editor
 
 ## 📅 2025Q1~Q2
 
