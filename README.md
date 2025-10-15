@@ -20,6 +20,7 @@
 - 📧 Sending
   - [x] improved email routing
   - [x] send to bluesky & X
+  - [x] plain-text email 
 - 🔍 SEO
   - [x] better about page
 - 🤖 Quaily AI
