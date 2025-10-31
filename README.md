@@ -37,7 +37,7 @@
 - 📰 Publish
   - [x] Full content feed
   - [x] [Quaily Journalist](https://github.com/quailyquaily/quaily-journalist/)
-  - [ ] Markdown output
+  - [x] Markdown output
 
 ## 📅 2025Q1~Q2
 
