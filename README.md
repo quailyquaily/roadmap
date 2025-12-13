@@ -16,6 +16,7 @@
 - 🔍 Search
   - [x] search for channels
   - [ ] reranker
+  - [x] search for authors 
   - [x] search at dashboard
 - 📧 Sending
   - [x] improved email routing
@@ -24,7 +25,7 @@
 - 🔍 SEO
   - [x] better about page
 - 🤖 Quaily AI
-  - [x] gpt-5
+  - [x] gpt-5, gpt-5.2
   - [x] image generation
 - 📊 Analytics
   - [x] Google analytics events
@@ -38,6 +39,7 @@
   - [x] Full content feed
   - [x] [Quaily Journalist](https://github.com/quailyquaily/quaily-journalist/)
   - [x] Markdown output
+  - [x] Reactions for posts
 
 ## 📅 2025Q1~Q2
 
